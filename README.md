@@ -2,10 +2,6 @@
 
 Bu uygulama basit bir ToDo List uygulamasıdır. İlk sayfasında reqres.in sitesinden dummy kullanıcı listesini çeker. İkinci sayfasında ToDo'ları kaydedebilirsiniz.
 
-# İndirme Linki 
-
-
-[todoList APK 1.0.0](https://github.com/ertadis/todolistApp/releases/tag/Release "download")
 
 # Nasıl Kullanılır
 
